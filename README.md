@@ -11,27 +11,30 @@ The goal is to analyze data distribution, detect outliers, understand correlatio
 
 ### Tools & Technologies
 
-*Python 3.x
-*Pandas
-*Matplotlib
-*Seaborn
-*VS Code
+* Python 3.x
+* Pandas
+* Matplotlib
+* Seaborn
+* VS Code
 
 ### Datasets Used
-*Netflix Movies and TV Shows Dataset
-*Source: Kaggle Public Dataset
+* Netflix Movies and TV Shows Dataset
+* Source: Kaggle Public Dataset
 
 ### Iris Dataset
-*Source: UCI Machine Learning Repository
-*Loaded using Scikit-learn
+* Source: UCI Machine Learning Repository
+* Loaded using Scikit-learn
 
-### EDA Tasks Performed
-*Numerical Feature Analysis
-*Categorical Feature Analysis
-*Count plots used to analyze category frequency.
-*Box plots used to detect extreme values.
-*Analyzed feature relationships using correlation heatmap
-*Identified important features for prediction
-*Documented insights from visualizations
+## EDA Tasks Performed
+* Numerical Feature Analysis
+* Categorical Feature Analysis
+* Count plots used to analyze category frequency.
+* Box plots used to detect extreme values.
+* Analyzed feature relationships using correlation heatmap
+* Identified important features for prediction
+* Documented insights from visualizations
 
-
+## Outcome
+- Gained understanding of data distributions and relationships
+- Identified important features for prediction
+- Improved data analysis and visualization skills
